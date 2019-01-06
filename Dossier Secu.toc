@@ -42,7 +42,7 @@
 \contentsline {subsubsection}{\numberline {2.6.2.1}Plan de situation:}{36}{subsubsection.2.6.2.1}
 \contentsline {subsubsection}{\numberline {2.6.2.2}Calcul de l'effectif (Article N 2):}{37}{subsubsection.2.6.2.2}
 \contentsline {subsubsection}{\numberline {2.6.2.3}D\IeC {\'e}gagements et \IeC {\'e}vacuation:}{39}{subsubsection.2.6.2.3}
-\contentsline {subsubsection}{\numberline {2.6.2.4}Eclairage:}{39}{subsubsection.2.6.2.4}
+\contentsline {subsubsection}{\numberline {2.6.2.4}\IeC {\'E}clairage:}{39}{subsubsection.2.6.2.4}
 \contentsline {subsubsection}{\numberline {2.6.2.5}Moyens de secours contre l'incendie:}{39}{subsubsection.2.6.2.5}
 \contentsline {subsubsection}{\numberline {2.6.2.6}Mobilier:}{39}{subsubsection.2.6.2.6}
 \contentsline {subsubsection}{\numberline {2.6.2.7}S\IeC {\^u}ret\IeC {\'e}:}{40}{subsubsection.2.6.2.7}
@@ -53,7 +53,7 @@
 \contentsline {paragraph}{\numberline {2.6.3.2.2}Construction}{43}{paragraph.2.6.3.2.2}
 \contentsline {paragraph}{\numberline {2.6.3.2.3}D\IeC {\'e}gagements}{44}{paragraph.2.6.3.2.3}
 \contentsline {paragraph}{\numberline {2.6.3.2.4}Am\IeC {\'e}nagements}{44}{paragraph.2.6.3.2.4}
-\contentsline {paragraph}{\numberline {2.6.3.2.5}Electricit\IeC {\'e}}{44}{paragraph.2.6.3.2.5}
+\contentsline {paragraph}{\numberline {2.6.3.2.5}\IeC {\'E}lectricit\IeC {\'e}}{44}{paragraph.2.6.3.2.5}
 \contentsline {subsection}{\numberline {2.6.4}Dispositions sp\IeC {\'e}cifiques \IeC {\`a} la zone ERP r\IeC {\'e}duite le dimanche soir}{46}{subsection.2.6.4}
 \contentsline {section}{\numberline {2.7}Annexes - S\IeC {\'e}curit\IeC {\'e} Incendie}{48}{section.2.7}
 \contentsline {subsection}{\numberline {2.7.1}Plan d'installation de la grande sc\IeC {\`e}ne}{48}{subsection.2.7.1}
@@ -112,8 +112,8 @@
 \contentsline {subsection}{\numberline {3.2.3}R\IeC {\`e}glement int\IeC {\'e}rieur de la Zone de Concerts (version du 03/01/2018)}{81}{subsection.3.2.3}
 \contentsline {subsection}{\numberline {3.2.4}Proc\IeC {\'e}dure d\IeC {\textquoteright }\IeC {\'e}vacuation de la Zone de Concerts}{83}{subsection.3.2.4}
 \contentsline {subsubsection}{\numberline {3.2.4.1}Protocole de surveillance de la Zone de Concerts :}{83}{subsubsection.3.2.4.1}
-\contentsline {subsubsection}{\numberline {3.2.4.2}Evacuation avec \IeC {\'e}lectricit\IeC {\'e}}{83}{subsubsection.3.2.4.2}
-\contentsline {subsubsection}{\numberline {3.2.4.3}Evacuation sans Electricit\IeC {\'e}}{83}{subsubsection.3.2.4.3}
+\contentsline {subsubsection}{\numberline {3.2.4.2}\IeC {\'E}vacuation avec \IeC {\'e}lectricit\IeC {\'e}}{83}{subsubsection.3.2.4.2}
+\contentsline {subsubsection}{\numberline {3.2.4.3}\IeC {\'E}vacuation sans \IeC {\'E}lectricit\IeC {\'e}}{83}{subsubsection.3.2.4.3}
 \contentsline {subsection}{\numberline {3.2.5}Gestion des d\IeC {\'e}chets}{84}{subsection.3.2.5}
 \contentsline {section}{\numberline {3.3}Dossier m\IeC {\'e}t\IeC {\'e}o}{85}{section.3.3}
 \contentsline {subsection}{\numberline {3.3.1}Risques li\IeC {\'e}s \IeC {\`a} la pluie}{85}{subsection.3.3.1}
@@ -152,134 +152,135 @@
 \contentsline {subsection}{\numberline {4.2.6}Tester le dispositif de crise}{99}{subsection.4.2.6}
 \contentsline {subsection}{\numberline {4.2.7}R\IeC {\'e}action en cas de crise}{100}{subsection.4.2.7}
 \contentsline {section}{\numberline {4.3}R\IeC {\'e}capitulatif des mesures recommand\IeC {\'e}es par l'ouvrage \FB@og G\IeC {\'e}rer la s\IeC {\^u}ret\IeC {\'e} et la s\IeC {\'e}curit\IeC {\'e} des \IeC {\'e}v\IeC {\'e}nements et sites culturels \FB@fg \relax }{100}{section.4.3}
-\contentsline {chapter}{\numberline {5}Hygi\IeC {\`e}ne \IeC {\textendash } Espace restauration}{102}{chapter.5}
-\contentsline {section}{\numberline {5.1}Pr\IeC {\'e}sentation}{102}{section.5.1}
-\contentsline {section}{\numberline {5.2}Protection contre l\IeC {\textquoteright }incendie}{102}{section.5.2}
-\contentsline {section}{\numberline {5.3}Mesures d\IeC {\textquoteright }hygi\IeC {\`e}ne}{103}{section.5.3}
-\contentsline {subsection}{\numberline {5.3.1}Produits : qualit\IeC {\'e}, traitement et conservation}{103}{subsection.5.3.1}
-\contentsline {subsection}{\numberline {5.3.2}Lieux}{103}{subsection.5.3.2}
-\contentsline {subsection}{\numberline {5.3.3}Hygi\IeC {\`e}ne des personnes}{103}{subsection.5.3.3}
-\contentsline {chapter}{\numberline {6} Dispositions sp\IeC {\'e}cifiques aux courses et aux animations}{104}{chapter.6}
-\contentsline {section}{\numberline {6.1}Feu d\IeC {\textquoteright }artifice}{104}{section.6.1}
-\contentsline {subsection}{\numberline {6.1.1}Fiche s\IeC {\'e}curit\IeC {\'e}}{104}{subsection.6.1.1}
-\contentsline {subsection}{\numberline {6.1.2}Sch\IeC {\'e}ma de mise en \IeC {\oe }uvre et plan d\IeC {\textquoteright }implantation}{104}{subsection.6.1.2}
-\contentsline {subsection}{\numberline {6.1.3}Attestation d\IeC {\textquoteright }assurance responsabilit\IeC {\'e} civile de l\IeC {\textquoteright }artificier}{106}{subsection.6.1.3}
-\contentsline {subsection}{\numberline {6.1.4}Certificat de qualification aux tirs K4 de l\IeC {\textquoteright }artificier}{107}{subsection.6.1.4}
-\contentsline {subsection}{\numberline {6.1.5}Certificat de qualification C4 \IeC {\textendash } T2 de l\IeC {\textquoteright }artificier}{108}{subsection.6.1.5}
-\contentsline {subsection}{\numberline {6.1.6}Autorisation du d\IeC {\'e}roulement du feu d\IeC {\textquoteright }artifice par la direction de l\IeC {\textquoteright }INSA}{109}{subsection.6.1.6}
-\contentsline {subsection}{\numberline {6.1.7}Arr\IeC {\^e}t\IeC {\'e} d\IeC {\textquoteright }autorisation de tir de la Mairie de Villeurbanne}{110}{subsection.6.1.7}
-\contentsline {section}{\numberline {6.2}Course cycliste}{111}{section.6.2}
-\contentsline {subsection}{\numberline {6.2.1}Pr\IeC {\'e}sentation}{111}{subsection.6.2.1}
-\contentsline {subsubsection}{\numberline {6.2.1.1}Autorisation du d\IeC {\'e}roulement de la course cycliste par la direction de l\IeC {\textquoteright }INSA}{113}{subsubsection.6.2.1.1}
-\contentsline {subsubsection}{\numberline {6.2.1.2}Analyse des risques sur la course cycliste}{114}{subsubsection.6.2.1.2}
-\contentsline {subsection}{\numberline {6.2.2}Contr\IeC {\^o}le des certificats m\IeC {\'e}dicaux des coureurs}{114}{subsection.6.2.2}
-\contentsline {subsection}{\numberline {6.2.3}Mesures de s\IeC {\'e}curit\IeC {\'e} pendant la course}{115}{subsection.6.2.3}
-\contentsline {subsection}{\numberline {6.2.4}Proc\IeC {\'e}dures de fonctionnement et d\IeC {\textquoteright }arr\IeC {\^e}t de la course}{115}{subsection.6.2.4}
-\contentsline {subsubsection}{\numberline {6.2.4.1}Hors incident}{115}{subsubsection.6.2.4.1}
-\contentsline {paragraph}{\numberline {6.2.4.1.1}En journ\IeC {\'e}e}{115}{paragraph.6.2.4.1.1}
-\contentsline {paragraph}{\numberline {6.2.4.1.2}En soir\IeC {\'e}e}{115}{paragraph.6.2.4.1.2}
-\contentsline {subsubsection}{\numberline {6.2.4.2}Incidents de faible gravit\IeC {\'e}}{115}{subsubsection.6.2.4.2}
-\contentsline {paragraph}{\numberline {6.2.4.2.1}En journ\IeC {\'e}e}{116}{paragraph.6.2.4.2.1}
-\contentsline {paragraph}{\numberline {6.2.4.2.2}En soir\IeC {\'e}e}{116}{paragraph.6.2.4.2.2}
-\contentsline {subsubsection}{\numberline {6.2.4.3}Incidents de gravit\IeC {\'e} moyenne}{116}{subsubsection.6.2.4.3}
-\contentsline {paragraph}{\numberline {6.2.4.3.1}En journ\IeC {\'e}e}{116}{paragraph.6.2.4.3.1}
-\contentsline {paragraph}{\numberline {6.2.4.3.2}En soir\IeC {\'e}e}{116}{paragraph.6.2.4.3.2}
-\contentsline {subsubsection}{\numberline {6.2.4.4}Incident grave}{117}{subsubsection.6.2.4.4}
-\contentsline {paragraph}{\numberline {6.2.4.4.1}En journ\IeC {\'e}e :}{117}{paragraph.6.2.4.4.1}
-\contentsline {paragraph}{\numberline {6.2.4.4.2}En soir\IeC {\'e}e :}{117}{paragraph.6.2.4.4.2}
-\contentsline {section}{\numberline {6.3}Course \IeC {\`a} pied et triathlon}{118}{section.6.3}
-\contentsline {subsection}{\numberline {6.3.1}Course \IeC {\`a} pied}{118}{subsection.6.3.1}
-\contentsline {subsubsection}{\numberline {6.3.1.1}Pr\IeC {\'e}sentation}{118}{subsubsection.6.3.1.1}
-\contentsline {subsubsection}{\numberline {6.3.1.2}Autorisation du d\IeC {\'e}roulement des courses p\IeC {\'e}destre et triathlon par la direction de l\IeC {\textquoteright }INSA}{119}{subsubsection.6.3.1.2}
-\contentsline {subsubsection}{\numberline {6.3.1.3}Contr\IeC {\^o}le des certificats m\IeC {\'e}dicaux des coureurs}{120}{subsubsection.6.3.1.3}
-\contentsline {subsubsection}{\numberline {6.3.1.4}Mesures de s\IeC {\'e}curit\IeC {\'e}}{120}{subsubsection.6.3.1.4}
-\contentsline {subsection}{\numberline {6.3.2}Triathlon 24 heures}{120}{subsection.6.3.2}
-\contentsline {subsection}{\numberline {6.3.3}Village Coureurs}{120}{subsection.6.3.3}
-\contentsline {section}{\numberline {6.4}Animations}{122}{section.6.4}
-\contentsline {subsection}{\numberline {6.4.1}G\IeC {\'e}n\IeC {\'e}ralit\IeC {\'e}s \IeC {\textendash } pr\IeC {\'e}sentation}{122}{subsection.6.4.1}
-\contentsline {subsection}{\numberline {6.4.2}Animations sportives}{122}{subsection.6.4.2}
-\contentsline {subsubsection}{\numberline {6.4.2.1}Description}{122}{subsubsection.6.4.2.1}
-\contentsline {subsubsection}{\numberline {6.4.2.2}Convention de mise \IeC {\`a} disposition des locaux du SIUAPS}{122}{subsubsection.6.4.2.2}
-\contentsline {subsubsection}{\numberline {6.4.2.3}Agr\IeC {\'e}ment Jeunesse et Sports}{123}{subsubsection.6.4.2.3}
-\contentsline {subsection}{\numberline {6.4.3}Animations culturelles, de divertissements et de pr\IeC {\'e}vention en journ\IeC {\'e}e}{125}{subsection.6.4.3}
-\contentsline {subsection}{\numberline {6.4.4}Animations en journ\IeC {\'e}e dans un \IeC {\'e}tablissement ERP sans modification de ce dernier}{125}{subsection.6.4.4}
-\contentsline {subsubsection}{\numberline {6.4.4.1}Rotonde, avenue des Arts (B\IeC {\^a}timent 602)}{125}{subsubsection.6.4.4.1}
-\contentsline {subsubsection}{\numberline {6.4.4.2}Amphith\IeC {\'e}\IeC {\^a}tre Gaston Berger, rue de la Physique (B\IeC {\^a}timent 503)}{125}{subsubsection.6.4.4.2}
-\contentsline {subsubsection}{\numberline {6.4.4.3}Maison des \IeC {\'e}tudiants, avenue des Arts (B\IeC {\^a}timent 608)}{126}{subsubsection.6.4.4.3}
-\contentsline {subsection}{\numberline {6.4.5}Animations du dimanche 20 mai en soir\IeC {\'e}e}{126}{subsection.6.4.5}
-\contentsline {subsubsection}{\numberline {6.4.5.1}Concert de jazz en partenariat avec Un Doua de Jazz}{126}{subsubsection.6.4.5.1}
-\contentsline {paragraph}{\numberline {6.4.5.1.1}Descriptif}{126}{paragraph.6.4.5.1.1}
-\contentsline {paragraph}{\numberline {6.4.5.1.2}R\IeC {\'e}partition des agents de s\IeC {\^u}ret\IeC {\'e}}{127}{paragraph.6.4.5.1.2}
-\contentsline {paragraph}{\numberline {6.4.5.1.3}Fiche s\IeC {\'e}curit\IeC {\'e}}{128}{paragraph.6.4.5.1.3}
-\contentsline {subsubsection}{\numberline {6.4.5.2}Spectacle de feu}{129}{subsubsection.6.4.5.2}
-\contentsline {paragraph}{\numberline {6.4.5.2.1}Fiche de s\IeC {\'e}curit\IeC {\'e}}{129}{paragraph.6.4.5.2.1}
-\contentsline {paragraph}{\numberline {6.4.5.2.2}Autorisation du d\IeC {\'e}roulement d\IeC {\textquoteright }une convention de jonglage enflamm\IeC {\'e} par la direction de l\IeC {\textquoteright }INSA}{130}{paragraph.6.4.5.2.2}
-\contentsline {subsection}{\numberline {6.4.6}24 heures de cin\IeC {\'e}ma}{131}{subsection.6.4.6}
-\contentsline {subsubsection}{\numberline {6.4.6.1}Fiche s\IeC {\'e}curit\IeC {\'e}}{131}{subsubsection.6.4.6.1}
-\contentsline {subsection}{\numberline {6.4.7}Tir de micro-fus\IeC {\'e}es}{132}{subsection.6.4.7}
-\contentsline {subsubsection}{\numberline {6.4.7.1}Fiche s\IeC {\'e}curit\IeC {\'e}}{132}{subsubsection.6.4.7.1}
-\contentsline {subsection}{\numberline {6.4.8}Au Pays des Ouistitis}{133}{subsection.6.4.8}
-\contentsline {subsubsection}{\numberline {6.4.8.1}Fiche s\IeC {\'e}curit\IeC {\'e}}{133}{subsubsection.6.4.8.1}
-\contentsline {subsection}{\numberline {6.4.9}Combat de joute}{133}{subsection.6.4.9}
-\contentsline {subsubsection}{\numberline {6.4.9.1}Fiche s\IeC {\'e}curit\IeC {\'e}}{133}{subsubsection.6.4.9.1}
-\contentsline {subsection}{\numberline {6.4.10}Jumbo course}{133}{subsection.6.4.10}
-\contentsline {subsubsection}{\numberline {6.4.10.1}Fiche s\IeC {\'e}curit\IeC {\'e}}{133}{subsubsection.6.4.10.1}
-\contentsline {subsection}{\numberline {6.4.11}Archery Tag}{134}{subsection.6.4.11}
-\contentsline {subsubsection}{\numberline {6.4.11.1}Fiche s\IeC {\'e}curit\IeC {\'e}}{134}{subsubsection.6.4.11.1}
-\contentsline {subsection}{\numberline {6.4.12}Tyrolienne}{134}{subsection.6.4.12}
-\contentsline {subsubsection}{\numberline {6.4.12.1}Principe de l\IeC {\textquoteright }animation}{134}{subsubsection.6.4.12.1}
-\contentsline {subsubsection}{\numberline {6.4.12.2}Emplacement de l\IeC {\textquoteright }animation}{135}{subsubsection.6.4.12.2}
-\contentsline {subsubsection}{\numberline {6.4.12.3}Caract\IeC {\'e}ristiques techniques de la structure :}{135}{subsubsection.6.4.12.3}
-\contentsline {subsubsection}{\numberline {6.4.12.4}R\IeC {\'e}glementation}{135}{subsubsection.6.4.12.4}
-\contentsline {paragraph}{\numberline {6.4.12.4.1}Certificat de conformit\IeC {\'e}}{135}{paragraph.6.4.12.4.1}
-\contentsline {paragraph}{\numberline {6.4.12.4.2}Coordonn\IeC {\'e}es de l'exploitant}{139}{paragraph.6.4.12.4.2}
-\contentsline {subsubsection}{\numberline {6.4.12.5}Conditions d\IeC {\textquoteright }exploitation}{139}{subsubsection.6.4.12.5}
-\contentsline {subsubsection}{\numberline {6.4.12.6}Fiche s\IeC {\'e}curit\IeC {\'e}}{139}{subsubsection.6.4.12.6}
-\contentsline {chapter}{\numberline {7} Handicap - Accessibilit\IeC {\'e}}{140}{chapter.7}
-\contentsline {section}{\numberline {7.1}R\IeC {\'e}f\IeC {\'e}rences}{140}{section.7.1}
-\contentsline {section}{\numberline {7.2}Diagnostic d\IeC {\textquoteright }accessibilit\IeC {\'e}}{141}{section.7.2}
-\contentsline {section}{\numberline {7.3}Dispositions sp\IeC {\'e}cifiques en vue d\IeC {\textquoteright }accueillir des Personnes \IeC {\`a} Mobilit\IeC {\'e} R\IeC {\'e}duite (PMR)}{142}{section.7.3}
-\contentsline {subsection}{\numberline {7.3.1}Acc\IeC {\`e}s \IeC {\`a} la Zone de Concerts aux PMR}{142}{subsection.7.3.1}
-\contentsline {subsection}{\numberline {7.3.2}Accueil des v\IeC {\'e}hicules de PMR}{142}{subsection.7.3.2}
-\contentsline {section}{\numberline {7.4}Entr\IeC {\'e}e et sortie de la zone ERP}{144}{section.7.4}
-\contentsline {subsection}{\numberline {7.4.1}Acc\IeC {\`e}s des PMR poss\IeC {\'e}dant d\IeC {\'e}j\IeC {\`a} un billet d\IeC {\textquoteright }entr\IeC {\'e}e}{144}{subsection.7.4.1}
-\contentsline {subsection}{\numberline {7.4.2}Acc\IeC {\`e}s des PMR ne poss\IeC {\'e}dant pas de billet d\IeC {\textquoteright }entr\IeC {\'e}e}{145}{subsection.7.4.2}
-\contentsline {subsection}{\numberline {7.4.3}Structure d\IeC {\'e}di\IeC {\'e}e pour visionner les concerts}{146}{subsection.7.4.3}
-\contentsline {subsection}{\numberline {7.4.4}Structure d\IeC {\'e}di\IeC {\'e}e pour le service accueil, restauration et buvette}{148}{subsection.7.4.4}
-\contentsline {subsection}{\numberline {7.4.5}Mise en place de cabinets d\IeC {\textquoteright }aisance d\IeC {\'e}di\IeC {\'e}s}{149}{subsection.7.4.5}
-\contentsline {section}{\numberline {7.5}Evacuation des personnes en situation de handicap}{151}{section.7.5}
-\contentsline {subsection}{\numberline {7.5.1}Mesures pour les PMR}{151}{subsection.7.5.1}
-\contentsline {subsection}{\numberline {7.5.2}Mesures pour les sourds et les malentendants}{151}{subsection.7.5.2}
-\contentsline {subsection}{\numberline {7.5.3}Mesures pour les aveugles et les malvoyants}{151}{subsection.7.5.3}
-\contentsline {section}{\numberline {7.6}Annexe : Avis favorable de la Sous-Commission D\IeC {\'e}partementale d'Accessibilit\IeC {\'e} 2014}{152}{section.7.6}
-\contentsline {section}{\numberline {7.7}Annexe : Arr\IeC {\^e}t\IeC {\'e} pr\IeC {\'e}fectoral relatif \IeC {\`a} l'Accessibilit\IeC {\'e}}{157}{section.7.7}
-\contentsline {chapter}{\numberline {8}M\IeC {\'e}diation}{158}{chapter.8}
-\contentsline {section}{\numberline {8.1}Pr\IeC {\'e}vention des risques li\IeC {\'e}s \IeC {\`a} la manifestation}{158}{section.8.1}
-\contentsline {subsection}{\numberline {8.1.1}Pr\IeC {\'e}vention en amont de la manifestation}{158}{subsection.8.1.1}
-\contentsline {subsection}{\numberline {8.1.2}Pr\IeC {\'e}vention durant la manifestation}{158}{subsection.8.1.2}
-\contentsline {section}{\numberline {8.2}Pr\IeC {\'e}vention des risques li\IeC {\'e}s aux transports}{159}{section.8.2}
-\contentsline {subsection}{\numberline {8.2.1}D\IeC {\'e}sactivation des bornes V\IeC {\'e}lo\IeC {\textquoteright }v}{159}{subsection.8.2.1}
-\contentsline {subsection}{\numberline {8.2.2}Dispositif relatif au r\IeC {\'e}seau TCL}{159}{subsection.8.2.2}
-\contentsline {chapter}{\numberline {9}Annexes}{160}{chapter.9}
-\contentsline {section}{\numberline {9.1}Autorisations}{160}{section.9.1}
-\contentsline {subsection}{\numberline {9.1.1}Autorisation de principe de la direction de l\IeC {\textquoteright }INSA pour le d\IeC {\'e}roulement du festival}{161}{subsection.9.1.1}
-\contentsline {subsection}{\numberline {9.1.2}Autorisation administrative des forces de police \IeC {\`a} entrer sur le campus de l\IeC {\textquoteright }INSA}{162}{subsection.9.1.2}
-\contentsline {subsection}{\numberline {9.1.3}Autorisation de tenue du festival des 24 heures de l'INSA par l'Universit\IeC {\'e} Claude Bernard - Lyon 1}{163}{subsection.9.1.3}
-\contentsline {subsection}{\numberline {9.1.4}Avis favorable de la formation \IeC {\guillemotleft }Grands Rassemblements\IeC {\guillemotright } de la CCDSA pour l\IeC {\textquoteright }arrondissement de Lyon}{164}{subsection.9.1.4}
-\contentsline {subsection}{\numberline {9.1.5}Arr\IeC {\^e}t\IeC {\'e} Municipal autorisant \IeC {\textquotedblleft }Un Grand Rassemblement\IeC {\textquotedblright }}{165}{subsection.9.1.5}
-\contentsline {section}{\numberline {9.2}Documents relatifs au prestataire \IeC {\'e}lectricit\IeC {\'e}}{168}{section.9.2}
-\contentsline {subsection}{\numberline {9.2.1}Habilitation \IeC {\'e}l\IeC {\'e}ctrique de l'\IeC {\'e}lectricien}{168}{subsection.9.2.1}
-\contentsline {subsection}{\numberline {9.2.2}Attestation d'assurance du prestataire C\IeC {\^a}ble et Compagnie}{168}{subsection.9.2.2}
-\contentsline {section}{\numberline {9.3}Fiches ERP des b\IeC {\^a}timents}{169}{section.9.3}
-\contentsline {subsection}{\numberline {9.3.1}Fiche ERP de l\IeC {\textquoteright }amphith\IeC {\'e}\IeC {\^a}tre \IeC {\guillemotleft }Seguin\IeC {\guillemotright } (301)}{169}{subsection.9.3.1}
-\contentsline {subsection}{\numberline {9.3.2}Fiche ERP de l\IeC {\textquoteright }amphith\IeC {\'e}\IeC {\^a}tre \IeC {\guillemotleft }Lespinasse\IeC {\guillemotright } (402)}{170}{subsection.9.3.2}
-\contentsline {subsection}{\numberline {9.3.3}Fiche ERP de l\IeC {\textquoteright }amphith\IeC {\'e}\IeC {\^a}tre \IeC {\guillemotleft }Berger\IeC {\guillemotright } (503)}{171}{subsection.9.3.3}
-\contentsline {subsection}{\numberline {9.3.4}Fiche ERP du b\IeC {\^a}timent \IeC {\guillemotleft }Jacquard / Saint Exup\IeC {\'e}ry\IeC {\guillemotright } (302-303)}{172}{subsection.9.3.4}
-\contentsline {subsection}{\numberline {9.3.5}Fiche ERP du b\IeC {\^a}timent \IeC {\guillemotleft }Freyssinet\IeC {\guillemotright } (307)}{173}{subsection.9.3.5}
-\contentsline {subsection}{\numberline {9.3.6}Fiche ERP du b\IeC {\^a}timent \IeC {\guillemotleft }Les Humanit\IeC {\'e}s\IeC {\guillemotright } (601)}{174}{subsection.9.3.6}
-\contentsline {subsection}{\numberline {9.3.7}Fiche ERP du b\IeC {\^a}timent \IeC {\guillemotleft }Maison du personnel\IeC {\guillemotright } (210)}{175}{subsection.9.3.7}
-\contentsline {subsection}{\numberline {9.3.8}Fiche ERP du b\IeC {\^a}timent \IeC {\guillemotleft }Le Th\IeC {\'e}l\IeC {\`e}me\IeC {\guillemotright } (608)}{176}{subsection.9.3.8}
-\contentsline {subsection}{\numberline {9.3.9}Fiche ERP du b\IeC {\^a}timent \IeC {\guillemotleft }Verne / Vinci\IeC {\guillemotright } (401-403)}{177}{subsection.9.3.9}
-\contentsline {subsection}{\numberline {9.3.10}Fiche ERP du b\IeC {\^a}timent \IeC {\guillemotleft }La Rotonde\IeC {\guillemotright } (602)}{178}{subsection.9.3.10}
-\contentsline {subsection}{\numberline {9.3.11}Fiche ERP du b\IeC {\^a}timent \IeC {\guillemotleft }Coulomb/Eiffel\IeC {\guillemotright } (304-305-306)}{179}{subsection.9.3.11}
-\contentsline {subsection}{\numberline {9.3.12}Fiche ERP du b\IeC {\^a}timent \IeC {\guillemotleft } INSA Piscine\IeC {\guillemotright }}{180}{subsection.9.3.12}
+\contentsline {section}{\numberline {4.4}Diagnostic du plan Vigipirate}{102}{section.4.4}
+\contentsline {chapter}{\numberline {5}Hygi\IeC {\`e}ne \IeC {\textendash } Espace restauration}{103}{chapter.5}
+\contentsline {section}{\numberline {5.1}Pr\IeC {\'e}sentation}{103}{section.5.1}
+\contentsline {section}{\numberline {5.2}Protection contre l\IeC {\textquoteright }incendie}{103}{section.5.2}
+\contentsline {section}{\numberline {5.3}Mesures d\IeC {\textquoteright }hygi\IeC {\`e}ne}{104}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Produits : qualit\IeC {\'e}, traitement et conservation}{104}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}Lieux}{104}{subsection.5.3.2}
+\contentsline {subsection}{\numberline {5.3.3}Hygi\IeC {\`e}ne des personnes}{104}{subsection.5.3.3}
+\contentsline {chapter}{\numberline {6} Dispositions sp\IeC {\'e}cifiques aux courses et aux animations}{105}{chapter.6}
+\contentsline {section}{\numberline {6.1}Feu d\IeC {\textquoteright }artifice}{105}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Fiche s\IeC {\'e}curit\IeC {\'e}}{105}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.2}Sch\IeC {\'e}ma de mise en \IeC {\oe }uvre et plan d\IeC {\textquoteright }implantation}{105}{subsection.6.1.2}
+\contentsline {subsection}{\numberline {6.1.3}Attestation d\IeC {\textquoteright }assurance responsabilit\IeC {\'e} civile de l\IeC {\textquoteright }artificier}{107}{subsection.6.1.3}
+\contentsline {subsection}{\numberline {6.1.4}Certificat de qualification aux tirs K4 de l\IeC {\textquoteright }artificier}{108}{subsection.6.1.4}
+\contentsline {subsection}{\numberline {6.1.5}Certificat de qualification C4 \IeC {\textendash } T2 de l\IeC {\textquoteright }artificier}{109}{subsection.6.1.5}
+\contentsline {subsection}{\numberline {6.1.6}Autorisation du d\IeC {\'e}roulement du feu d\IeC {\textquoteright }artifice par la direction de l\IeC {\textquoteright }INSA}{110}{subsection.6.1.6}
+\contentsline {subsection}{\numberline {6.1.7}Arr\IeC {\^e}t\IeC {\'e} d\IeC {\textquoteright }autorisation de tir de la Mairie de Villeurbanne}{111}{subsection.6.1.7}
+\contentsline {section}{\numberline {6.2}Course cycliste}{112}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Pr\IeC {\'e}sentation}{112}{subsection.6.2.1}
+\contentsline {subsubsection}{\numberline {6.2.1.1}Autorisation du d\IeC {\'e}roulement de la course cycliste par la direction de l\IeC {\textquoteright }INSA}{114}{subsubsection.6.2.1.1}
+\contentsline {subsubsection}{\numberline {6.2.1.2}Analyse des risques sur la course cycliste}{115}{subsubsection.6.2.1.2}
+\contentsline {subsection}{\numberline {6.2.2}Contr\IeC {\^o}le des certificats m\IeC {\'e}dicaux des coureurs}{115}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {6.2.3}Mesures de s\IeC {\'e}curit\IeC {\'e} pendant la course}{116}{subsection.6.2.3}
+\contentsline {subsection}{\numberline {6.2.4}Proc\IeC {\'e}dures de fonctionnement et d\IeC {\textquoteright }arr\IeC {\^e}t de la course}{116}{subsection.6.2.4}
+\contentsline {subsubsection}{\numberline {6.2.4.1}Hors incident}{116}{subsubsection.6.2.4.1}
+\contentsline {paragraph}{\numberline {6.2.4.1.1}En journ\IeC {\'e}e}{116}{paragraph.6.2.4.1.1}
+\contentsline {paragraph}{\numberline {6.2.4.1.2}En soir\IeC {\'e}e}{116}{paragraph.6.2.4.1.2}
+\contentsline {subsubsection}{\numberline {6.2.4.2}Incidents de faible gravit\IeC {\'e}}{116}{subsubsection.6.2.4.2}
+\contentsline {paragraph}{\numberline {6.2.4.2.1}En journ\IeC {\'e}e}{117}{paragraph.6.2.4.2.1}
+\contentsline {paragraph}{\numberline {6.2.4.2.2}En soir\IeC {\'e}e}{117}{paragraph.6.2.4.2.2}
+\contentsline {subsubsection}{\numberline {6.2.4.3}Incidents de gravit\IeC {\'e} moyenne}{117}{subsubsection.6.2.4.3}
+\contentsline {paragraph}{\numberline {6.2.4.3.1}En journ\IeC {\'e}e}{117}{paragraph.6.2.4.3.1}
+\contentsline {paragraph}{\numberline {6.2.4.3.2}En soir\IeC {\'e}e}{117}{paragraph.6.2.4.3.2}
+\contentsline {subsubsection}{\numberline {6.2.4.4}Incident grave}{118}{subsubsection.6.2.4.4}
+\contentsline {paragraph}{\numberline {6.2.4.4.1}En journ\IeC {\'e}e :}{118}{paragraph.6.2.4.4.1}
+\contentsline {paragraph}{\numberline {6.2.4.4.2}En soir\IeC {\'e}e :}{118}{paragraph.6.2.4.4.2}
+\contentsline {section}{\numberline {6.3}Course \IeC {\`a} pied et triathlon}{119}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}Course \IeC {\`a} pied}{119}{subsection.6.3.1}
+\contentsline {subsubsection}{\numberline {6.3.1.1}Pr\IeC {\'e}sentation}{119}{subsubsection.6.3.1.1}
+\contentsline {subsubsection}{\numberline {6.3.1.2}Autorisation du d\IeC {\'e}roulement des courses p\IeC {\'e}destre et triathlon par la direction de l\IeC {\textquoteright }INSA}{120}{subsubsection.6.3.1.2}
+\contentsline {subsubsection}{\numberline {6.3.1.3}Contr\IeC {\^o}le des certificats m\IeC {\'e}dicaux des coureurs}{121}{subsubsection.6.3.1.3}
+\contentsline {subsubsection}{\numberline {6.3.1.4}Mesures de s\IeC {\'e}curit\IeC {\'e}}{121}{subsubsection.6.3.1.4}
+\contentsline {subsection}{\numberline {6.3.2}Triathlon 24 heures}{121}{subsection.6.3.2}
+\contentsline {subsection}{\numberline {6.3.3}Village Coureurs}{121}{subsection.6.3.3}
+\contentsline {section}{\numberline {6.4}Animations}{123}{section.6.4}
+\contentsline {subsection}{\numberline {6.4.1}G\IeC {\'e}n\IeC {\'e}ralit\IeC {\'e}s \IeC {\textendash } pr\IeC {\'e}sentation}{123}{subsection.6.4.1}
+\contentsline {subsection}{\numberline {6.4.2}Animations sportives}{123}{subsection.6.4.2}
+\contentsline {subsubsection}{\numberline {6.4.2.1}Description}{123}{subsubsection.6.4.2.1}
+\contentsline {subsubsection}{\numberline {6.4.2.2}Convention de mise \IeC {\`a} disposition des locaux du SIUAPS}{123}{subsubsection.6.4.2.2}
+\contentsline {subsubsection}{\numberline {6.4.2.3}Agr\IeC {\'e}ment Jeunesse et Sports}{124}{subsubsection.6.4.2.3}
+\contentsline {subsection}{\numberline {6.4.3}Animations culturelles, de divertissements et de pr\IeC {\'e}vention en journ\IeC {\'e}e}{126}{subsection.6.4.3}
+\contentsline {subsection}{\numberline {6.4.4}Animations en journ\IeC {\'e}e dans un \IeC {\'e}tablissement ERP sans modification de ce dernier}{126}{subsection.6.4.4}
+\contentsline {subsubsection}{\numberline {6.4.4.1}Rotonde, avenue des Arts (B\IeC {\^a}timent 602)}{126}{subsubsection.6.4.4.1}
+\contentsline {subsubsection}{\numberline {6.4.4.2}Amphith\IeC {\'e}\IeC {\^a}tre Gaston Berger, rue de la Physique (B\IeC {\^a}timent 503)}{126}{subsubsection.6.4.4.2}
+\contentsline {subsubsection}{\numberline {6.4.4.3}Maison des \IeC {\'e}tudiants, avenue des Arts (B\IeC {\^a}timent 608)}{127}{subsubsection.6.4.4.3}
+\contentsline {subsection}{\numberline {6.4.5}Animations du dimanche 20 mai en soir\IeC {\'e}e}{127}{subsection.6.4.5}
+\contentsline {subsubsection}{\numberline {6.4.5.1}Concert de jazz en partenariat avec Un Doua de Jazz}{127}{subsubsection.6.4.5.1}
+\contentsline {paragraph}{\numberline {6.4.5.1.1}Descriptif}{127}{paragraph.6.4.5.1.1}
+\contentsline {paragraph}{\numberline {6.4.5.1.2}R\IeC {\'e}partition des agents de s\IeC {\^u}ret\IeC {\'e}}{128}{paragraph.6.4.5.1.2}
+\contentsline {paragraph}{\numberline {6.4.5.1.3}Fiche s\IeC {\'e}curit\IeC {\'e}}{129}{paragraph.6.4.5.1.3}
+\contentsline {subsubsection}{\numberline {6.4.5.2}Spectacle de feu}{130}{subsubsection.6.4.5.2}
+\contentsline {paragraph}{\numberline {6.4.5.2.1}Fiche de s\IeC {\'e}curit\IeC {\'e}}{130}{paragraph.6.4.5.2.1}
+\contentsline {paragraph}{\numberline {6.4.5.2.2}Autorisation du d\IeC {\'e}roulement d\IeC {\textquoteright }une convention de jonglage enflamm\IeC {\'e} par la direction de l\IeC {\textquoteright }INSA}{131}{paragraph.6.4.5.2.2}
+\contentsline {subsection}{\numberline {6.4.6}24 heures de cin\IeC {\'e}ma}{132}{subsection.6.4.6}
+\contentsline {subsubsection}{\numberline {6.4.6.1}Fiche s\IeC {\'e}curit\IeC {\'e}}{132}{subsubsection.6.4.6.1}
+\contentsline {subsection}{\numberline {6.4.7}Tir de micro-fus\IeC {\'e}es}{133}{subsection.6.4.7}
+\contentsline {subsubsection}{\numberline {6.4.7.1}Fiche s\IeC {\'e}curit\IeC {\'e}}{133}{subsubsection.6.4.7.1}
+\contentsline {subsection}{\numberline {6.4.8}Au Pays des Ouistitis}{134}{subsection.6.4.8}
+\contentsline {subsubsection}{\numberline {6.4.8.1}Fiche s\IeC {\'e}curit\IeC {\'e}}{134}{subsubsection.6.4.8.1}
+\contentsline {subsection}{\numberline {6.4.9}Combat de joute}{134}{subsection.6.4.9}
+\contentsline {subsubsection}{\numberline {6.4.9.1}Fiche s\IeC {\'e}curit\IeC {\'e}}{134}{subsubsection.6.4.9.1}
+\contentsline {subsection}{\numberline {6.4.10}Jumbo course}{134}{subsection.6.4.10}
+\contentsline {subsubsection}{\numberline {6.4.10.1}Fiche s\IeC {\'e}curit\IeC {\'e}}{134}{subsubsection.6.4.10.1}
+\contentsline {subsection}{\numberline {6.4.11}Archery Tag}{135}{subsection.6.4.11}
+\contentsline {subsubsection}{\numberline {6.4.11.1}Fiche s\IeC {\'e}curit\IeC {\'e}}{135}{subsubsection.6.4.11.1}
+\contentsline {subsection}{\numberline {6.4.12}Tyrolienne}{135}{subsection.6.4.12}
+\contentsline {subsubsection}{\numberline {6.4.12.1}Principe de l\IeC {\textquoteright }animation}{135}{subsubsection.6.4.12.1}
+\contentsline {subsubsection}{\numberline {6.4.12.2}Emplacement de l\IeC {\textquoteright }animation}{136}{subsubsection.6.4.12.2}
+\contentsline {subsubsection}{\numberline {6.4.12.3}Caract\IeC {\'e}ristiques techniques de la structure :}{136}{subsubsection.6.4.12.3}
+\contentsline {subsubsection}{\numberline {6.4.12.4}R\IeC {\'e}glementation}{136}{subsubsection.6.4.12.4}
+\contentsline {paragraph}{\numberline {6.4.12.4.1}Certificat de conformit\IeC {\'e}}{136}{paragraph.6.4.12.4.1}
+\contentsline {paragraph}{\numberline {6.4.12.4.2}Coordonn\IeC {\'e}es de l'exploitant}{140}{paragraph.6.4.12.4.2}
+\contentsline {subsubsection}{\numberline {6.4.12.5}Conditions d\IeC {\textquoteright }exploitation}{140}{subsubsection.6.4.12.5}
+\contentsline {subsubsection}{\numberline {6.4.12.6}Fiche s\IeC {\'e}curit\IeC {\'e}}{140}{subsubsection.6.4.12.6}
+\contentsline {chapter}{\numberline {7} Handicap - Accessibilit\IeC {\'e}}{141}{chapter.7}
+\contentsline {section}{\numberline {7.1}R\IeC {\'e}f\IeC {\'e}rences}{141}{section.7.1}
+\contentsline {section}{\numberline {7.2}Diagnostic d\IeC {\textquoteright }accessibilit\IeC {\'e}}{142}{section.7.2}
+\contentsline {section}{\numberline {7.3}Dispositions sp\IeC {\'e}cifiques en vue d\IeC {\textquoteright }accueillir des Personnes \IeC {\`a} Mobilit\IeC {\'e} R\IeC {\'e}duite (PMR)}{143}{section.7.3}
+\contentsline {subsection}{\numberline {7.3.1}Acc\IeC {\`e}s \IeC {\`a} la Zone de Concerts aux PMR}{143}{subsection.7.3.1}
+\contentsline {subsection}{\numberline {7.3.2}Accueil des v\IeC {\'e}hicules de PMR}{143}{subsection.7.3.2}
+\contentsline {section}{\numberline {7.4}Entr\IeC {\'e}e et sortie de la zone ERP}{145}{section.7.4}
+\contentsline {subsection}{\numberline {7.4.1}Acc\IeC {\`e}s des PMR poss\IeC {\'e}dant d\IeC {\'e}j\IeC {\`a} un billet d\IeC {\textquoteright }entr\IeC {\'e}e}{145}{subsection.7.4.1}
+\contentsline {subsection}{\numberline {7.4.2}Acc\IeC {\`e}s des PMR ne poss\IeC {\'e}dant pas de billet d\IeC {\textquoteright }entr\IeC {\'e}e}{146}{subsection.7.4.2}
+\contentsline {subsection}{\numberline {7.4.3}Structure d\IeC {\'e}di\IeC {\'e}e pour visionner les concerts}{147}{subsection.7.4.3}
+\contentsline {subsection}{\numberline {7.4.4}Structure d\IeC {\'e}di\IeC {\'e}e pour le service accueil, restauration et buvette}{149}{subsection.7.4.4}
+\contentsline {subsection}{\numberline {7.4.5}Mise en place de cabinets d\IeC {\textquoteright }aisance d\IeC {\'e}di\IeC {\'e}s}{150}{subsection.7.4.5}
+\contentsline {section}{\numberline {7.5}\IeC {\'E}vacuation des personnes en situation de handicap}{152}{section.7.5}
+\contentsline {subsection}{\numberline {7.5.1}Mesures pour les PMR}{152}{subsection.7.5.1}
+\contentsline {subsection}{\numberline {7.5.2}Mesures pour les sourds et les malentendants}{152}{subsection.7.5.2}
+\contentsline {subsection}{\numberline {7.5.3}Mesures pour les aveugles et les malvoyants}{152}{subsection.7.5.3}
+\contentsline {section}{\numberline {7.6}Annexe : Avis favorable de la Sous-Commission D\IeC {\'e}partementale d'Accessibilit\IeC {\'e} 2014}{153}{section.7.6}
+\contentsline {section}{\numberline {7.7}Annexe : Arr\IeC {\^e}t\IeC {\'e} pr\IeC {\'e}fectoral relatif \IeC {\`a} l'Accessibilit\IeC {\'e}}{158}{section.7.7}
+\contentsline {chapter}{\numberline {8}M\IeC {\'e}diation}{159}{chapter.8}
+\contentsline {section}{\numberline {8.1}Pr\IeC {\'e}vention des risques li\IeC {\'e}s \IeC {\`a} la manifestation}{159}{section.8.1}
+\contentsline {subsection}{\numberline {8.1.1}Pr\IeC {\'e}vention en amont de la manifestation}{159}{subsection.8.1.1}
+\contentsline {subsection}{\numberline {8.1.2}Pr\IeC {\'e}vention durant la manifestation}{159}{subsection.8.1.2}
+\contentsline {section}{\numberline {8.2}Pr\IeC {\'e}vention des risques li\IeC {\'e}s aux transports}{160}{section.8.2}
+\contentsline {subsection}{\numberline {8.2.1}D\IeC {\'e}sactivation des bornes V\IeC {\'e}lo\IeC {\textquoteright }v}{160}{subsection.8.2.1}
+\contentsline {subsection}{\numberline {8.2.2}Dispositif relatif au r\IeC {\'e}seau TCL}{160}{subsection.8.2.2}
+\contentsline {chapter}{\numberline {9}Annexes}{161}{chapter.9}
+\contentsline {section}{\numberline {9.1}Autorisations}{161}{section.9.1}
+\contentsline {subsection}{\numberline {9.1.1}Autorisation de principe de la direction de l\IeC {\textquoteright }INSA pour le d\IeC {\'e}roulement du festival}{162}{subsection.9.1.1}
+\contentsline {subsection}{\numberline {9.1.2}Autorisation administrative des forces de police \IeC {\`a} entrer sur le campus de l\IeC {\textquoteright }INSA}{163}{subsection.9.1.2}
+\contentsline {subsection}{\numberline {9.1.3}Autorisation de tenue du festival des 24 heures de l'INSA par l'Universit\IeC {\'e} Claude Bernard - Lyon 1}{164}{subsection.9.1.3}
+\contentsline {subsection}{\numberline {9.1.4}Avis favorable de la formation \IeC {\guillemotleft }Grands Rassemblements\IeC {\guillemotright } de la CCDSA pour l\IeC {\textquoteright }arrondissement de Lyon}{165}{subsection.9.1.4}
+\contentsline {subsection}{\numberline {9.1.5}Arr\IeC {\^e}t\IeC {\'e} Municipal autorisant \IeC {\textquotedblleft }Un Grand Rassemblement\IeC {\textquotedblright }}{166}{subsection.9.1.5}
+\contentsline {section}{\numberline {9.2}Documents relatifs au prestataire \IeC {\'e}lectricit\IeC {\'e}}{169}{section.9.2}
+\contentsline {subsection}{\numberline {9.2.1}Habilitation \IeC {\'e}l\IeC {\'e}ctrique de l'\IeC {\'e}lectricien}{169}{subsection.9.2.1}
+\contentsline {subsection}{\numberline {9.2.2}Attestation d'assurance du prestataire C\IeC {\^a}ble et Compagnie}{169}{subsection.9.2.2}
+\contentsline {section}{\numberline {9.3}Fiches ERP des b\IeC {\^a}timents}{170}{section.9.3}
+\contentsline {subsection}{\numberline {9.3.1}Fiche ERP de l\IeC {\textquoteright }amphith\IeC {\'e}\IeC {\^a}tre \IeC {\guillemotleft }Seguin\IeC {\guillemotright } (301)}{170}{subsection.9.3.1}
+\contentsline {subsection}{\numberline {9.3.2}Fiche ERP de l\IeC {\textquoteright }amphith\IeC {\'e}\IeC {\^a}tre \IeC {\guillemotleft }Lespinasse\IeC {\guillemotright } (402)}{171}{subsection.9.3.2}
+\contentsline {subsection}{\numberline {9.3.3}Fiche ERP de l\IeC {\textquoteright }amphith\IeC {\'e}\IeC {\^a}tre \IeC {\guillemotleft }Berger\IeC {\guillemotright } (503)}{172}{subsection.9.3.3}
+\contentsline {subsection}{\numberline {9.3.4}Fiche ERP du b\IeC {\^a}timent \IeC {\guillemotleft }Jacquard / Saint Exup\IeC {\'e}ry\IeC {\guillemotright } (302-303)}{173}{subsection.9.3.4}
+\contentsline {subsection}{\numberline {9.3.5}Fiche ERP du b\IeC {\^a}timent \IeC {\guillemotleft }Freyssinet\IeC {\guillemotright } (307)}{174}{subsection.9.3.5}
+\contentsline {subsection}{\numberline {9.3.6}Fiche ERP du b\IeC {\^a}timent \IeC {\guillemotleft }Les Humanit\IeC {\'e}s\IeC {\guillemotright } (601)}{175}{subsection.9.3.6}
+\contentsline {subsection}{\numberline {9.3.7}Fiche ERP du b\IeC {\^a}timent \IeC {\guillemotleft }Maison du personnel\IeC {\guillemotright } (210)}{176}{subsection.9.3.7}
+\contentsline {subsection}{\numberline {9.3.8}Fiche ERP du b\IeC {\^a}timent \IeC {\guillemotleft }Le Th\IeC {\'e}l\IeC {\`e}me\IeC {\guillemotright } (608)}{177}{subsection.9.3.8}
+\contentsline {subsection}{\numberline {9.3.9}Fiche ERP du b\IeC {\^a}timent \IeC {\guillemotleft }Verne / Vinci\IeC {\guillemotright } (401-403)}{178}{subsection.9.3.9}
+\contentsline {subsection}{\numberline {9.3.10}Fiche ERP du b\IeC {\^a}timent \IeC {\guillemotleft }La Rotonde\IeC {\guillemotright } (602)}{179}{subsection.9.3.10}
+\contentsline {subsection}{\numberline {9.3.11}Fiche ERP du b\IeC {\^a}timent \IeC {\guillemotleft }Coulomb/Eiffel\IeC {\guillemotright } (304-305-306)}{180}{subsection.9.3.11}
+\contentsline {subsection}{\numberline {9.3.12}Fiche ERP du b\IeC {\^a}timent \IeC {\guillemotleft } INSA Piscine\IeC {\guillemotright }}{181}{subsection.9.3.12}
