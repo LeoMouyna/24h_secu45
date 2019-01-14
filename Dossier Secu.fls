@@ -143,14 +143,8 @@ INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
-INPUT Dossier Secu.out
-INPUT Dossier Secu.out
-INPUT Dossier Secu.out
-INPUT Dossier Secu.out
-OUTPUT Dossier Secu.pdf
-INPUT ./Dossier Secu.out
-INPUT ./Dossier Secu.out
 OUTPUT Dossier Secu.out
+OUTPUT Dossier Secu.pdf
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/bitstrea/charter/bchr8t.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/bitstrea/charter/bchr8t.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/bitstrea/charter/bchr8t.tfm
@@ -215,12 +209,12 @@ INPUT ./Annexes/Trombi_orgas/Tresorier.jpg
 INPUT Annexes/Trombi_orgas/Orga_billetterie.jpg
 INPUT ./Annexes/Trombi_orgas/Orga_billetterie.jpg
 INPUT ./Annexes/Trombi_orgas/Orga_billetterie.jpg
-INPUT Annexes/Trombi_orgas/Orga_catering_1.jpg
-INPUT ./Annexes/Trombi_orgas/Orga_catering_1.jpg
-INPUT ./Annexes/Trombi_orgas/Orga_catering_1.jpg
-INPUT Annexes/Trombi_orgas/Orga_catering_2.jpg
-INPUT ./Annexes/Trombi_orgas/Orga_catering_2.jpg
-INPUT ./Annexes/Trombi_orgas/Orga_catering_2.jpg
+INPUT Annexes/Trombi_orgas/Orga_barriere_1.jpg
+INPUT ./Annexes/Trombi_orgas/Orga_barriere_1.jpg
+INPUT ./Annexes/Trombi_orgas/Orga_barriere_1.jpg
+INPUT Annexes/Trombi_orgas/Orga_barriere_2.jpg
+INPUT ./Annexes/Trombi_orgas/Orga_barriere_2.jpg
+INPUT ./Annexes/Trombi_orgas/Orga_barriere_2.jpg
 INPUT Annexes/Trombi_orgas/Orga_humain_1.jpg
 INPUT ./Annexes/Trombi_orgas/Orga_humain_1.jpg
 INPUT ./Annexes/Trombi_orgas/Orga_humain_1.jpg
@@ -233,24 +227,30 @@ INPUT ./Annexes/Trombi_orgas/Orga_bar_1.jpeg
 INPUT Annexes/Trombi_orgas/Orga_bar_2.jpg
 INPUT ./Annexes/Trombi_orgas/Orga_bar_2.jpg
 INPUT ./Annexes/Trombi_orgas/Orga_bar_2.jpg
-INPUT Annexes/Trombi_orgas/Orga_barriere_1.jpg
-INPUT ./Annexes/Trombi_orgas/Orga_barriere_1.jpg
-INPUT ./Annexes/Trombi_orgas/Orga_barriere_1.jpg
-INPUT Annexes/Trombi_orgas/Orga_barriere_2.jpg
-INPUT ./Annexes/Trombi_orgas/Orga_barriere_2.jpg
-INPUT ./Annexes/Trombi_orgas/Orga_barriere_2.jpg
+INPUT Annexes/Trombi_orgas/Orga_catering_1.jpg
+INPUT ./Annexes/Trombi_orgas/Orga_catering_1.jpg
+INPUT ./Annexes/Trombi_orgas/Orga_catering_1.jpg
+INPUT Annexes/Trombi_orgas/Orga_catering_2.jpg
+INPUT ./Annexes/Trombi_orgas/Orga_catering_2.jpg
+INPUT ./Annexes/Trombi_orgas/Orga_catering_2.jpg
+INPUT Annexes/Trombi_orgas/Orga_catering_3.jpg
+INPUT ./Annexes/Trombi_orgas/Orga_catering_3.jpg
+INPUT ./Annexes/Trombi_orgas/Orga_catering_3.jpg
 INPUT Annexes/Trombi_orgas/Orga_signa.jpg
 INPUT ./Annexes/Trombi_orgas/Orga_signa.jpg
 INPUT ./Annexes/Trombi_orgas/Orga_signa.jpg
-INPUT Annexes/Trombi_orgas/Orga_deco.jpg
-INPUT ./Annexes/Trombi_orgas/Orga_deco.jpg
-INPUT ./Annexes/Trombi_orgas/Orga_deco.jpg
-INPUT Annexes/Trombi_orgas/Orga_log_1.jpg
-INPUT ./Annexes/Trombi_orgas/Orga_log_1.jpg
-INPUT ./Annexes/Trombi_orgas/Orga_log_1.jpg
+INPUT Annexes/Trombi_orgas/Orga_deco_1.jpg
+INPUT ./Annexes/Trombi_orgas/Orga_deco_1.jpg
+INPUT ./Annexes/Trombi_orgas/Orga_deco_1.jpg
+INPUT Annexes/Trombi_orgas/Orga_deco_2.png
+INPUT ./Annexes/Trombi_orgas/Orga_deco_2.png
+INPUT ./Annexes/Trombi_orgas/Orga_deco_2.png
 INPUT Annexes/Trombi_orgas/Orga_log_2.jpg
 INPUT ./Annexes/Trombi_orgas/Orga_log_2.jpg
 INPUT ./Annexes/Trombi_orgas/Orga_log_2.jpg
+INPUT Annexes/Trombi_orgas/Orga_log_1.jpg
+INPUT ./Annexes/Trombi_orgas/Orga_log_1.jpg
+INPUT ./Annexes/Trombi_orgas/Orga_log_1.jpg
 INPUT Annexes/Trombi_orgas/Orga_log_3.png
 INPUT ./Annexes/Trombi_orgas/Orga_log_3.png
 INPUT ./Annexes/Trombi_orgas/Orga_log_3.png
@@ -263,8 +263,6 @@ INPUT ./Annexes/Trombi_orgas/Orga_concert_2.jpg
 INPUT Annexes/Trombi_orgas/Orga_concert_3.jpg
 INPUT ./Annexes/Trombi_orgas/Orga_concert_3.jpg
 INPUT ./Annexes/Trombi_orgas/Orga_concert_3.jpg
-INPUT Dossier Secu.toc
-INPUT Dossier Secu.toc
 OUTPUT Dossier Secu.toc
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/ts1bch.fd
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/ts1bch.fd
@@ -600,24 +598,6 @@ INPUT ./Exports/Plan_24h_44eme-AS_Dimanche.pdf
 INPUT Annexes/Documents/INSAAutorisationSpectacleDeFeu.pdf
 INPUT ./Annexes/Documents/INSAAutorisationSpectacleDeFeu.pdf
 INPUT ./Annexes/Documents/INSAAutorisationSpectacleDeFeu.pdf
-INPUT Annexes/Images/tyrolienne.png
-INPUT ./Annexes/Images/tyrolienne.png
-INPUT ./Annexes/Images/tyrolienne.png
-INPUT Annexes/Images/Vue_aerienne_Tyrolienne.png
-INPUT ./Annexes/Images/Vue_aerienne_Tyrolienne.png
-INPUT ./Annexes/Images/Vue_aerienne_Tyrolienne.png
-INPUT Annexes/Images/Pompier_Tyrolienne.png
-INPUT ./Annexes/Images/Pompier_Tyrolienne.png
-INPUT ./Annexes/Images/Pompier_Tyrolienne.png
-INPUT Annexes/Documents/ESCAL-Grimpe-document-Attestation-conformite-Tour-Aventure.pdf
-INPUT ./Annexes/Documents/ESCAL-Grimpe-document-Attestation-conformite-Tour-Aventure.pdf
-INPUT ./Annexes/Documents/ESCAL-Grimpe-document-Attestation-conformite-Tour-Aventure.pdf
-INPUT Annexes/Documents/ESCAL-Grimpe-document-EPI-Attestation-de-Suivi.pdf
-INPUT ./Annexes/Documents/ESCAL-Grimpe-document-EPI-Attestation-de-Suivi.pdf
-INPUT ./Annexes/Documents/ESCAL-Grimpe-document-EPI-Attestation-de-Suivi.pdf
-INPUT Annexes/Documents/ESCAL-Grimpe-document-RC-Pro.pdf
-INPUT ./Annexes/Documents/ESCAL-Grimpe-document-RC-Pro.pdf
-INPUT ./Annexes/Documents/ESCAL-Grimpe-document-RC-Pro.pdf
 INPUT Annexes/Images/PMR_entree.jpg
 INPUT ./Annexes/Images/PMR_entree.jpg
 INPUT ./Annexes/Images/PMR_entree.jpg
