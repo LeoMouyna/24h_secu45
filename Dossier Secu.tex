@@ -19,6 +19,7 @@
 \hypersetup{colorlinks=false,linktoc=all}
 \usepackage{fancyhdr} 
 \usepackage{eurosym}
+\usepackage{draftwatermark}
 \pagestyle{fancy} 
 \fancyhead{} 
 \fancyfoot[L]{\small{24 heures de l'INSA - 2019}} 
@@ -29,8 +30,14 @@
 \setlength{\headheight}{13.6pt}
 \setcounter{secnumdepth}{9}
 \setlength\parindent{0pt}
+\definecolor{grey}{rgb}{127, 127, 127}
+
 
 \begin{document}
+
+\SetWatermarkText{CONFIDENTIEL}
+\SetWatermarkScale{0.7}
+\SetWatermarkColor[gray]{0.9}
 
 \begin{center}
 \rule[0.5ex]{\linewidth}{2pt}\vspace*{-\baselineskip}\vspace*{4.2pt}
@@ -125,7 +132,7 @@ Responsable STAFF Sécurité, Jean-Christophe Bel : \textbf{06 98 16 40 50}\\
 \hline
 
 \multicolumn{3}{|m{4cm}|}{} & \multicolumn{3}{m{4cm}|}{} & \multicolumn{3}{m{4cm}}{} & \multicolumn{3}{m{4cm}|}{}\\
-\multicolumn{3}{|c|}{\bf Trésorière} & \multicolumn{3}{c|}{\bf Responsable Billetterie} & \multicolumn{6}{c|}{\bf Responsables Barriere}\\
+\multicolumn{3}{|c|}{\bf Trésorière} & \multicolumn{3}{c|}{\bf Responsable Billetterie} & \multicolumn{6}{c|}{\bf Responsables Barrières}\\
 \multicolumn{3}{|c|}{tresorier@24heures.org} & \multicolumn{3}{c|}{billetterie@24heures.org} & \multicolumn{6}{c|}{logistique.barrieres@24heures.org}\\
 \multicolumn{3}{|c|}{\rule{0pt}{2ex}} & \multicolumn{3}{c|}{} & \multicolumn{6}{c|}{} \\
 \multicolumn{3}{|c|}{\includegraphics[angle=270,totalheight=4cm]{Annexes/Trombi_orgas/Tresorier}} & \multicolumn{3}{c|}{\includegraphics[angle=270,totalheight=4cm]{Annexes/Trombi_orgas/Orga_billetterie}} & \multicolumn{3}{c}{\includegraphics[angle=270,totalheight=4cm]{Annexes/Trombi_orgas/Orga_barriere_1}} & \multicolumn{3}{c|}{\includegraphics[angle=270,totalheight=4cm]{Annexes/Trombi_orgas/Orga_barriere_2}}\\
