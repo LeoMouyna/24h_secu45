@@ -19,6 +19,7 @@
 \hypersetup{colorlinks=false,linktoc=all}
 \usepackage{fancyhdr} 
 \usepackage{eurosym}
+\usepackage{draftwatermark}
 \pagestyle{fancy} 
 \fancyhead{} 
 \fancyfoot[L]{\small{24 heures de l'INSA - 2019}} 
@@ -29,8 +30,14 @@
 \setlength{\headheight}{13.6pt}
 \setcounter{secnumdepth}{9}
 \setlength\parindent{0pt}
+\definecolor{grey}{rgb}{127, 127, 127}
+
 
 \begin{document}
+
+\SetWatermarkText{CONFIDENTIEL}
+\SetWatermarkScale{0.7}
+\SetWatermarkColor[gray]{0.9}
 
 \begin{center}
 \rule[0.5ex]{\linewidth}{2pt}\vspace*{-\baselineskip}\vspace*{4.2pt}
